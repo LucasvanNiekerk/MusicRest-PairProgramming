@@ -1,0 +1,20 @@
+#content {
+  color: #0091aa; }
+
+h2, h1 {
+  color: #be4a14; }
+
+.scrollable-content {
+  padding-right: 5px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: fit-content;
+  height: fit-content;
+  max-height: 300px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: auto;
+  /* for Firefox */
+  min-height: 0; }
