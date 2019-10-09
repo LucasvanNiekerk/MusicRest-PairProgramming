@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRest", "MusicRest\MusicRest.csproj", "{AEEA2575-AF38-4098-81F4-D410660EDA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{8A822674-8149-42CA-9A62-B879A10AE915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEA2575-AF38-4098-81F4-D410660EDA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEA2575-AF38-4098-81F4-D410660EDA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEA2575-AF38-4098-81F4-D410660EDA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEA2575-AF38-4098-81F4-D410660EDA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A822674-8149-42CA-9A62-B879A10AE915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A822674-8149-42CA-9A62-B879A10AE915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A822674-8149-42CA-9A62-B879A10AE915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A822674-8149-42CA-9A62-B879A10AE915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC50935E-5E7E-40B3-844F-36754D0906AF}
+	EndGlobalSection
+EndGlobal
